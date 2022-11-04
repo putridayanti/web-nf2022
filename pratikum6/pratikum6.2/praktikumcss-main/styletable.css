@@ -1,0 +1,25 @@
+table {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table1 {
+    background-color:#4169E1;
+    color: white;
+    font-weight: bold;
+}
+
+.table2 {
+    background-color: #87CEEB;
+}
+
+#table1 {
+    background-color: #d4ffff;
+}
+
+#table2 {
+    background-color: #87CEEB;
+}
+
+#table3 {
+    background-color: #d4ffff;
+}
